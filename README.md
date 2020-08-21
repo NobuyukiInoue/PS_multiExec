@@ -48,15 +48,15 @@ PS D:\PS_multiExec>
 
 |Options|Explanation|
 |-------|-----------|
-<cmdListFile>|List the command strings file you want to execute.
--maxProcessCount <Count>|Maximum number of concurrently executing processes. (default = 4)
--startInterval <interval>|Wait time for each command execution.(default = 0[sec])
--checkInterval <interval>|Check interval for the number of running processes. (default = 4[sec])
--retryCount <count>|Maximum number of processes to wait for next command execution. (default = 4)
--exitWait <true|false>|Wait for the completion of command execution and execute the next command. (default = false)
--logDir <dir>|Specifying the log output destination directory of stdout/stderr. (default = "./log_stdout_stderr")
--enable_log_stdout <true|false>|Enable stdout log output destination. (default = false)
--enable_log_stderr <true|false>|Enable stderr log output destination. (default = false)
+cmdListFile|List the command strings file you want to execute.
+-maxProcessCount \<Count\>|Maximum number of concurrently executing processes.<br>(default = 4)
+-startInterval \<interval\>|Wait time for each command execution.<br>(default = 0[sec])
+-checkInterval \<interval\>|Check interval for the number of running processes.<br>(default = 4[sec])
+-retryCount \<count\>|Maximum number of processes to wait for next command execution.<br>(default = 4)
+-exitWait \<true\|false\>|Wait for the completion of command execution and execute the next command.<br>(default = false)
+-logDir \<dir\>|Specifying the log output destination directory of stdout/stderr.<br>(default = "./log_stdout_stderr")
+-enable_log_stdout \<true\|false\>|Enable stdout log output destination.<br>(default = false)
+-enable_log_stderr \<true\|false\>|Enable stderr log output destination.<br>(default = false)
 
 ## Execution command example
 
