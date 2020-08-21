@@ -1,0 +1,8 @@
+ping www.google.com
+ping www.yahoo.co.jp
+ping www.amazon.com
+ping www.nikkei.co.jp
+snmpwalk -v 2c -c public 10.15.10.254 .1.3.6.1.2.1.2
+snmpwalk -v 2c -c public 10.15.10.254 .1.3.6.1.2.1.2.2.1.7
+snmpwalk -v 2c -c public 10.15.10.254 .1.3.6.1.2.1.2.2.1.8
+snmpwalk -v 2c -c public 10.15.10.254 .1.3.6.1.2.1.2.2.1.9

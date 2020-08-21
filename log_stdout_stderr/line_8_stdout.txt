@@ -1,0 +1,15 @@
+IF-MIB::ifLastChange.1 = Timeticks: (7567) 0:01:15.67
+IF-MIB::ifLastChange.52 = Timeticks: (7830) 0:01:18.30
+IF-MIB::ifLastChange.99 = Timeticks: (8161) 0:01:21.61
+IF-MIB::ifLastChange.10101 = Timeticks: (1015025) 2:49:10.25
+IF-MIB::ifLastChange.10102 = Timeticks: (8077) 0:01:20.77
+IF-MIB::ifLastChange.10103 = Timeticks: (1379245) 3:49:52.45
+IF-MIB::ifLastChange.10104 = Timeticks: (8461) 0:01:24.61
+IF-MIB::ifLastChange.10105 = Timeticks: (7777) 0:01:17.77
+IF-MIB::ifLastChange.10106 = Timeticks: (7777) 0:01:17.77
+IF-MIB::ifLastChange.10107 = Timeticks: (7777) 0:01:17.77
+IF-MIB::ifLastChange.10108 = Timeticks: (7777) 0:01:17.77
+IF-MIB::ifLastChange.10109 = Timeticks: (7777) 0:01:17.77
+IF-MIB::ifLastChange.10110 = Timeticks: (7778) 0:01:17.78
+IF-MIB::ifLastChange.10501 = Timeticks: (0) 0:00:00.00
+IF-MIB::ifLastChange.20567 = Timeticks: (7649) 0:01:16.49
