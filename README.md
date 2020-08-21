@@ -1,6 +1,5 @@
 PS_multiExec
 (old name is multiExec_from_PS.ps1)
-
 ==
 
 PS_multExec.ps1 is a script that executes commands in parallel in multiple processes from PowerShell.
